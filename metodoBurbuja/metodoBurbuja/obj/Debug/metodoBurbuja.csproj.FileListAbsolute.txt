@@ -1,0 +1,6 @@
+c:\users\cfgs\documents\visual studio 2015\Projects\metodoBurbuja\metodoBurbuja\bin\Debug\metodoBurbuja.exe.config
+c:\users\cfgs\documents\visual studio 2015\Projects\metodoBurbuja\metodoBurbuja\bin\Debug\metodoBurbuja.exe
+c:\users\cfgs\documents\visual studio 2015\Projects\metodoBurbuja\metodoBurbuja\bin\Debug\metodoBurbuja.pdb
+c:\users\cfgs\documents\visual studio 2015\Projects\metodoBurbuja\metodoBurbuja\obj\Debug\metodoBurbuja.csprojResolveAssemblyReference.cache
+c:\users\cfgs\documents\visual studio 2015\Projects\metodoBurbuja\metodoBurbuja\obj\Debug\metodoBurbuja.exe
+c:\users\cfgs\documents\visual studio 2015\Projects\metodoBurbuja\metodoBurbuja\obj\Debug\metodoBurbuja.pdb
