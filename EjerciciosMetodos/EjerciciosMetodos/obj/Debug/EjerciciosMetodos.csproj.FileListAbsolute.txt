@@ -1,0 +1,12 @@
+c:\users\mari carmen\documents\visual studio 2015\Projects\EjerciciosMetodos\EjerciciosMetodos\bin\Debug\EjerciciosMetodos.exe.config
+c:\users\mari carmen\documents\visual studio 2015\Projects\EjerciciosMetodos\EjerciciosMetodos\obj\Debug\EjerciciosMetodos.csprojResolveAssemblyReference.cache
+c:\users\mari carmen\documents\visual studio 2015\Projects\EjerciciosMetodos\EjerciciosMetodos\bin\Debug\EjerciciosMetodos.exe
+c:\users\mari carmen\documents\visual studio 2015\Projects\EjerciciosMetodos\EjerciciosMetodos\bin\Debug\EjerciciosMetodos.pdb
+c:\users\mari carmen\documents\visual studio 2015\Projects\EjerciciosMetodos\EjerciciosMetodos\obj\Debug\EjerciciosMetodos.exe
+c:\users\mari carmen\documents\visual studio 2015\Projects\EjerciciosMetodos\EjerciciosMetodos\obj\Debug\EjerciciosMetodos.pdb
+G:\EjerciciosMetodos\EjerciciosMetodos\bin\Debug\EjerciciosMetodos.exe.config
+G:\EjerciciosMetodos\EjerciciosMetodos\obj\Debug\EjerciciosMetodos.exe
+G:\EjerciciosMetodos\EjerciciosMetodos\obj\Debug\EjerciciosMetodos.pdb
+G:\EjerciciosMetodos\EjerciciosMetodos\bin\Debug\EjerciciosMetodos.exe
+G:\EjerciciosMetodos\EjerciciosMetodos\bin\Debug\EjerciciosMetodos.pdb
+G:\EjerciciosMetodos\EjerciciosMetodos\obj\Debug\EjerciciosMetodos.csprojResolveAssemblyReference.cache
