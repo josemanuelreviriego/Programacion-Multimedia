@@ -14,7 +14,7 @@ namespace EjerciciosMetodos
             int numero;
             Console.WriteLine("Opciones");
             Console.WriteLine("1. Truncar un numero real");
-            Console.WriteLine("2. Almacenar en el segundo numero el primero ya truncado");
+            Console.WriteLine("2. Almacenar en el segundo numero con el primero ya truncado");
             Console.WriteLine("3. Almacenar un numero real truncado");
             Console.WriteLine("4. Devuelve un numero real con los decimales que quieras");
             Console.WriteLine("5. Devuelve un numero real con los decimales que quieras (tres parametros)");
@@ -78,6 +78,7 @@ namespace EjerciciosMetodos
             double numero1 = 764.783478569;
             double numero3 = 0;
             int numero2 = 0; // Aqui se van a guardar los datos
+            double numeroCopiado = numero1; //Creo esta variable para que no se pise numero1 y asi poder trabajar con los decimales
 
             do
             {
@@ -97,13 +98,13 @@ namespace EjerciciosMetodos
                         Console.WriteLine("Este es tu numero\n" + numero1);
                         break;
                     case 4:
-                        truncarPorNumero(numero1, numero2);
+                        truncarPorNumero(numeroCopiado, numero2);
                         break;
                     case 5:
-                        TruncarPorNumero2(numero1, numero2, ref numero3);
+                        TruncarPorNumero2(numeroCopiado, numero2, ref numero3);
                         break;
                     case 6:
-                        truncarPorNumero3(ref numero1, numero2);
+                        truncarPorNumero3(ref numeroCopiado, numero2);
                         break;
                 }
             } while (opcion != 7);

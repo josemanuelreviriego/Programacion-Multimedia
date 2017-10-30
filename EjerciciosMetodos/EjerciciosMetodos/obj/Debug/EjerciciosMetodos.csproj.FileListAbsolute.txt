@@ -10,3 +10,9 @@ G:\EjerciciosMetodos\EjerciciosMetodos\obj\Debug\EjerciciosMetodos.pdb
 G:\EjerciciosMetodos\EjerciciosMetodos\bin\Debug\EjerciciosMetodos.exe
 G:\EjerciciosMetodos\EjerciciosMetodos\bin\Debug\EjerciciosMetodos.pdb
 G:\EjerciciosMetodos\EjerciciosMetodos\obj\Debug\EjerciciosMetodos.csprojResolveAssemblyReference.cache
+E:\GitHub\Programacion-Multimedia\EjerciciosMetodos\EjerciciosMetodos\bin\Debug\EjerciciosMetodos.exe.config
+E:\GitHub\Programacion-Multimedia\EjerciciosMetodos\EjerciciosMetodos\obj\Debug\EjerciciosMetodos.exe
+E:\GitHub\Programacion-Multimedia\EjerciciosMetodos\EjerciciosMetodos\obj\Debug\EjerciciosMetodos.pdb
+E:\GitHub\Programacion-Multimedia\EjerciciosMetodos\EjerciciosMetodos\bin\Debug\EjerciciosMetodos.exe
+E:\GitHub\Programacion-Multimedia\EjerciciosMetodos\EjerciciosMetodos\bin\Debug\EjerciciosMetodos.pdb
+E:\GitHub\Programacion-Multimedia\EjerciciosMetodos\EjerciciosMetodos\obj\Debug\EjerciciosMetodos.csprojResolveAssemblyReference.cache
