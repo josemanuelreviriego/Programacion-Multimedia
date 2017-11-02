@@ -1,0 +1,7 @@
+c:\users\cfgs\documents\visual studio 2015\Projects\POO\POO\bin\Debug\POO.exe.config
+J:\DAM 2017-2018\Moviles\POO\POO\bin\Debug\POO.exe.config
+J:\DAM 2017-2018\Moviles\POO\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+J:\DAM 2017-2018\Moviles\POO\POO\bin\Debug\POO.exe
+J:\DAM 2017-2018\Moviles\POO\POO\bin\Debug\POO.pdb
+J:\DAM 2017-2018\Moviles\POO\POO\obj\Debug\POO.exe
+J:\DAM 2017-2018\Moviles\POO\POO\obj\Debug\POO.pdb
