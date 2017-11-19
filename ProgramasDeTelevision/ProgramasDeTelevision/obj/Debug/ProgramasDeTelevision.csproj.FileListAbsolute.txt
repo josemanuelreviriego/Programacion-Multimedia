@@ -1,0 +1,2 @@
+c:\users\valde\documents\visual studio 2015\Projects\ProgramasDeTelevision\ProgramasDeTelevision\bin\Debug\ProgramasDeTelevision.exe.config
+c:\users\valde\documents\visual studio 2015\Projects\ProgramasDeTelevision\ProgramasDeTelevision\obj\Debug\ProgramasDeTelevision.csprojResolveAssemblyReference.cache

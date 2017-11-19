@@ -5,3 +5,6 @@ J:\DAM 2017-2018\Moviles\POO\POO\bin\Debug\POO.exe
 J:\DAM 2017-2018\Moviles\POO\POO\bin\Debug\POO.pdb
 J:\DAM 2017-2018\Moviles\POO\POO\obj\Debug\POO.exe
 J:\DAM 2017-2018\Moviles\POO\POO\obj\Debug\POO.pdb
+E:\GitHub\Programacion-Multimedia\POO\POO\bin\Debug\POO.exe.config
+E:\GitHub\Programacion-Multimedia\POO\POO\obj\Debug\POO.exe
+E:\GitHub\Programacion-Multimedia\POO\POO\obj\Debug\POO.pdb
