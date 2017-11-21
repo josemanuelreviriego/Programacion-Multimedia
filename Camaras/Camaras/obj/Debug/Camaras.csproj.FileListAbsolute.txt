@@ -1,0 +1,7 @@
+c:\users\valde\documents\visual studio 2015\Projects\Camaras\Camaras\bin\Debug\Camaras.exe.config
+E:\GitHub\Programacion-Multimedia\Camaras\Camaras\bin\Debug\Camaras.exe.config
+E:\GitHub\Programacion-Multimedia\Camaras\Camaras\bin\Debug\Camaras.exe
+E:\GitHub\Programacion-Multimedia\Camaras\Camaras\bin\Debug\Camaras.pdb
+E:\GitHub\Programacion-Multimedia\Camaras\Camaras\obj\Debug\Camaras.csprojResolveAssemblyReference.cache
+E:\GitHub\Programacion-Multimedia\Camaras\Camaras\obj\Debug\Camaras.exe
+E:\GitHub\Programacion-Multimedia\Camaras\Camaras\obj\Debug\Camaras.pdb
