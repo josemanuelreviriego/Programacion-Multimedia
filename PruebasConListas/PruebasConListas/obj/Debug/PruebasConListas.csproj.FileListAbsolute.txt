@@ -1,0 +1,6 @@
+c:\users\valde\documents\visual studio 2015\Projects\PruebasConListas\PruebasConListas\bin\Debug\PruebasConListas.exe.config
+c:\users\valde\documents\visual studio 2015\Projects\PruebasConListas\PruebasConListas\bin\Debug\PruebasConListas.exe
+c:\users\valde\documents\visual studio 2015\Projects\PruebasConListas\PruebasConListas\bin\Debug\PruebasConListas.pdb
+c:\users\valde\documents\visual studio 2015\Projects\PruebasConListas\PruebasConListas\obj\Debug\PruebasConListas.csprojResolveAssemblyReference.cache
+c:\users\valde\documents\visual studio 2015\Projects\PruebasConListas\PruebasConListas\obj\Debug\PruebasConListas.exe
+c:\users\valde\documents\visual studio 2015\Projects\PruebasConListas\PruebasConListas\obj\Debug\PruebasConListas.pdb
